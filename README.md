@@ -91,5 +91,7 @@ I enjoy exploring Linux, customizing my development environment, and continuousl
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JensenOcampo&show_icons=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JensenOcampo&layout=compact)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=JensenOcampo)
