@@ -1,6 +1,6 @@
 # Hi there, I'm John Jensen Ocampo 👋
 
-### Associate Software Engineer Aspirant | BS Information Technology Graduate
+### BS Information Technology Graduate
 
 I'm a BS Information Technology graduate specializing in **Web and Mobile Technologies** with hands-on experience in **web application development, system deployment, software testing, and technical support**.
 
