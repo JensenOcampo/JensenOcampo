@@ -12,7 +12,6 @@ During my internship at the **National Irrigation Administration (NIA) Regional 
 
 * 🎓 BS Information Technology Graduate (Web and Mobile Technologies)
 * 💻 Passionate about Software Engineering and Web Development
-* 🌱 Currently learning Node.js, Express.js, Supabase, and modern software development practices
 * 🔍 Interested in Backend Development, Full-Stack Development, Cloud Technologies, and System Design
 * 🤝 Open to collaborating on web applications, open-source projects, and software engineering initiatives
 * 🎯 Aspiring to build scalable and impactful technology solutions
